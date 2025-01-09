@@ -115,6 +115,7 @@ export default function(hljs) {
     "extern",
     "for",
     "fortran",
+    "function",
     "goto",
     "if",
     "inline",
